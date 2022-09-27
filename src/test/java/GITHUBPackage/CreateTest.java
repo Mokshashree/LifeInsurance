@@ -8,4 +8,9 @@ public class CreateTest {
 	{
 	System.out.println("...Created...");
 	}
+@Test
+public void create2()
+{
+	System.out.println("----created");
+}
 }

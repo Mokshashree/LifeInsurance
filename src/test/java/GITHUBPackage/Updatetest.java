@@ -1,0 +1,17 @@
+package GITHUBPackage;
+
+import org.testng.annotations.Test;
+
+public class Updatetest 
+{
+@Test
+public void create()
+{
+	System.out.println("----updated");
+}
+@Test
+public void delete()
+{
+	System.out.println("----deleted");
+}
+}
