@@ -8,4 +8,10 @@ public class CreateTest {
 	{
 	System.out.println("...Created...");
 	}
+{
+	System.out.println("...Created...");
+	}
+{
+	System.out.println("...Created...");
+	}
 }
