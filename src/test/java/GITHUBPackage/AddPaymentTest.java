@@ -7,7 +7,7 @@ public class AddPaymentTest {
 	@Test
 	public void addpayment()
 	{
-		System.out.println("payment done first time");
+		//System.out.println("payment done first time");
 	}
 
 }
