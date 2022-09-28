@@ -8,6 +8,7 @@ public class Updatetest
 public void create()
 {
 	System.out.println("----updated");
+	System.out.println("payment done first time");
 }
 @Test
 public void delete()

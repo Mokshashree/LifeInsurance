@@ -7,6 +7,7 @@ public class CreateTest {
 	public void create()
 	{
 	System.out.println("...Created...");
+	System.out.println("payment done first time");
 	}
 {
 	System.out.println("...Created...");
@@ -16,3 +17,5 @@ public class CreateTest {
 	}
 
 }
+
+
