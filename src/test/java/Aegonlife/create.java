@@ -7,9 +7,11 @@ public class create
 @Test
 public void create()
 {
-	System.out.println("hello");
-	
-	
-	
+	System.out.println("hello");	
+}
+@Test
+public void delete()
+{
+	System.out.println("deleted");
 }
 }
